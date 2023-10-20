@@ -10,16 +10,15 @@
 
 **Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.**
 
- 
-
-*Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.*
 
  
 
 # Instruções de Entrega do Desafio
 
 Descrição do desafio: Você irá criar um relatório mais elaborado com base na sample financials do Power BI. Os arquivos de dados estão disponíveis no github: 
+- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+Link: Acesso ao relatório  [Powerbi](https://app.powerbi.com/groups/me/reports/717d11ff-dfd0-473d-bc78-3871f2c59a4e/ReportSection97cbc83821537e2e2f6e?experience=power-bi)
 
 
 Fiquem atentos a: 
@@ -40,6 +39,8 @@ Utilize os vídeos de passo a passo para criação dos elementos que compõem a 
 
  
 
-Lembre-se de: 
+- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+Link: Acesso ao relatório  [Powerbi](https://app.powerbi.com/groups/me/reports/717d11ff-dfd0-473d-bc78-3871f2c59a4e/ReportSection97cbc83821537e2e2f6e?experience=power-bi)
 
 - 
